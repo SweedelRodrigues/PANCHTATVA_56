@@ -5,6 +5,7 @@ dotenv.config();  // this must be at the very top
 import cors from "cors";
 import express from "express";
 import medicineRoutes from "./routes/medicineRoutes.js";
+import substituteRoutes from "./routes/substituteRoutes.js"; 
 
 const app = express();
 app.use(cors());
@@ -20,6 +21,7 @@ app.get("/", (req, res) => {
 });
 
 app.use("/api", medicineRoutes);
+app.use("/api/substitutes", substituteRoutes);
 
 // start server
 const PORT = process.env.PORT || 5000;
