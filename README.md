@@ -1,13 +1,5 @@
 # 💊 Smart Medicine Locator
 
-![GitHub repo size](https://img.shields.io/github/repo-size/SweedelRodrigues/PANCHTATVA_56) 
-![GitHub language count](https://img.shields.io/github/languages/count/SweedelRodrigues/PANCHTATVA_56)
-![GitHub top language](https://img.shields.io/github/languages/top/SweedelRodrigues/PANCHTATVA_56)
-![GitHub license](https://img.shields.io/github/license/SweedelRodrigues/PANCHTATVA_56)
-![Last commit](https://img.shields.io/github/last-commit/SweedelRodrigues/PANCHTATVA_56)
-
----
-
 ## 📝 Project Overview
 The **Smart Medicine Locator** is a full-stack web application that helps users find medicines at nearby pharmacies, compare prices, and discover substitute medicines with the same composition. Users can also upload prescriptions for AI-based medicine extraction (planned feature). The goal is to make finding medicines faster, easier, and more cost-effective, especially in real-time scenarios.
 
